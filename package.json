@@ -1,0 +1,23 @@
+{
+  "name": "circlepack",
+  "version": "0.0.0",
+  "description": "A mix between a histogram and a scatter plot that probably has a name, but I don't know it yet.",
+  "main": "circlepack.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benfoxall/circlepack.git"
+  },
+  "author": "Ben Foxall (@benjaminbenben)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benfoxall/circlepack/issues"
+  },
+  "homepage": "https://github.com/benfoxall/circlepack#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
